@@ -1,5 +1,11 @@
 #include<iostream>
 using namespace std;
+void baiyu():
+void baiyu():
+void baiyu():
+void baiyu():
+void baiyu():
+
 int main()
 {
 
