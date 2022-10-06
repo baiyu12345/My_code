@@ -4,6 +4,7 @@ using namespace std;
 void  li(int a,int b);
 void  li(int a,int b);
 void  li(int a,int b);
+void test_pull();
 
 int main()
 {
