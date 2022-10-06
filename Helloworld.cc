@@ -7,6 +7,7 @@ void  li(int a,int b);
 void  li_new(int a,int b);
 void  li_new(int a,int b);
 
+
 void test_pull();
 void test_pull2();
 
