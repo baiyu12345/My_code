@@ -1,10 +1,10 @@
 #include<iostream>
 using namespace std;
-void baiyu():
-void baiyu():
-void baiyu():
-void baiyu():
-void baiyu():
+void Li():
+void Li():
+void Li():
+void Li():
+void Li():
 
 int main()
 {
