@@ -4,11 +4,9 @@ int main()
 {
 
     cout<<"Hello world!! I am baiyu11"<<endl;
-    cout<<"Hello world!! I am baiyu11"<<endl;
-    cout<<"Hello world!! I am baiyu11"<<endl;
-    cout<<"Hello wu11"<<endl;
-    cout<<"Hello world!! I am baiyu11"<<endl;
-    cout<<"Hello world!! I am baibaiyu11yu"<<endl;
+    cout<<"111111111111111111111111111111111"<<endl;
+    cout<<"baiyu commit"<<endl;
+
     
     return 0;
 }
