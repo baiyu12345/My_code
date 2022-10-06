@@ -2,9 +2,11 @@
 using namespace std;
 
 void  li(int a,int b);
-void  li(int a,int b);
+void  li(double a,double b);
 void  li(int a,int b);
 void test_pull();
+void test_pull2();
+
 
 int main()
 {
