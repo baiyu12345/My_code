@@ -1,5 +1,9 @@
 #include<iostream>
 using namespace std;
+void  f1(int a,int b);
+void  f2(int a,int b);
+void  f3(int a,int b);
+    
 int main()
 {
 
@@ -15,6 +19,7 @@ int main()
     cout<<"baiyu commit"<<endl;
     cout<<"baiyu commit"<<endl;
     cout<<"baiyu commit"<<endl;
+
     
     
     return 0;
