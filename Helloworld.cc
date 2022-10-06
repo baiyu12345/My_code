@@ -1,9 +1,12 @@
 #include<iostream>
 using namespace std;
 
-void  li(int a,int b);
+void  li(float a,int b);
 void  li(double a,double b);
 void  li(int a,int b);
+void  li_new(int a,int b);
+void  li_new(int a,int b);
+
 void test_pull();
 void test_pull2();
 
