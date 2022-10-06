@@ -1,9 +1,9 @@
 #include<iostream>
 using namespace std;
 
-void  f1(int a,int b);
-void  f2(int a,int b);
-void  f3(int a,int b);
+void  li(int a,int b);
+void  li(int a,int b);
+void  li(int a,int b);
 
 int main()
 {
